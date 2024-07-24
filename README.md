@@ -3,6 +3,7 @@
 ### Judul: Klasifikasi Kualitas Kopi Menggunakan Machine Learning: Perbandingan K-Nearest Neighbors (KNN) dan Support Vector Machines (SVM)
 ### Identitas:
 Nama: Fajar Adji Wicaksana
+
 NIM: A11.2022.14147
 ## 2. Ringkasan dan Permasalahan Project + Tujuan yang Akan Dicapai + Model / Alur Penyelesaian
 ### Ringkasan
