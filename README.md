@@ -19,7 +19,7 @@ Permasalahan yang dihadapi adalah bagaimana mengklasifikasikan kualitas kopi den
 ## Model / Alur Penyelesaian
 Berikut adalah bagan alur penyelesaian proyek ini:
 
-import matplotlib.pyplot as plt
+! [import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 from matplotlib.offsetbox import AnnotationBbox, TextArea
 
@@ -70,7 +70,7 @@ for (start, end) in arrows:
     x2, y2 = boxes[end][:2]
     ax.annotate("", xy=(x2, y2+0.5), xytext=(x1, y1-0.5), arrowprops=dict(arrowstyle="->"))
 
-plt.show()
+plt.show()]
 
 ## 3. Penjelasan Dataset, EDA dan Proses Features Dataset
 ### Dataset
