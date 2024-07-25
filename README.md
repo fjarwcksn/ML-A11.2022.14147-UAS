@@ -25,7 +25,7 @@ Berikut adalah bagan alur penyelesaian proyek ini:
 
 ## 3. Penjelasan Dataset, EDA dan Proses Features Dataset
 ### Dataset
-Dataset yang digunakan berasal dari Kaagle. Dataset ini mencakup berbagai atribut yang mencerminkan kualitas kopi seperti aroma, rasa, dan kandungan kimia.
+Dataset yang digunakan berasal dari [Kaagle](https://www.kaggle.com/datasets/hanifalirsyad/coffee-scrap-coffeereview). Dataset ini mencakup berbagai atribut yang mencerminkan kualitas kopi seperti aroma, rasa, dan kandungan kimia.
 
 ### Exploratory Data Analysis (EDA)
 Lakukan analisis eksplorasi data untuk memahami distribusi data, korelasi antar fitur, dan identifikasi outlier.
